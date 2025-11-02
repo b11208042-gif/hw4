@@ -55,7 +55,7 @@ final class AnimalStore: ObservableObject {
               diet: "草食",
               conservationStatus: "EN",
               lifespan: "60–70 年",
-              size: "2,700–6,000 kg",
+              size: "2,750–6,000 kg",
               summary: "現存陸地上體型最大的動物之一，具有高度社會性與記憶力。",
               imageName: "elephant"),
         .init(name: "帝王企鵝",
