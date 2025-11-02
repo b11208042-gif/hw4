@@ -141,7 +141,7 @@ final class AnimalStore: ObservableObject {
               conservationStatus: "LC",
               lifespan: "20–30 年",
               size: "體重 4–6 kg",
-              summary: "以極慢動作與倒掛生活聞名，行動緩慢以節省能量。",
+              summary: "以極慢動作與倒掛聞名，行動緩慢以節省能量。",
               imageName: "sloth"),
         
         .init(name: "袋鼠",
