@@ -483,7 +483,7 @@ struct AnimalDetailPage: View {
         }
     }
 }
-
+     
 struct CapsuleLabel: View {
     let text: String
     var body: some View {
@@ -495,6 +495,7 @@ struct CapsuleLabel: View {
             .clipShape(Capsule())
     }
 }
+
 
 struct KeyValuePill: View {
     let key: String
