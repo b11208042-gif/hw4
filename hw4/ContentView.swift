@@ -537,7 +537,7 @@ struct AddAnimalView: View {
         Form {
             Section(header: Text("基本資訊")) {
                 TextField("名稱（必填）", text: $name)
-                TextField("學名", text: $latinName)
+                TextField("學名（二分法）", text: $latinName)
                 TextField("分類（如：哺乳類）", text: $category)
                 TextField("棲地", text: $habitat)
                 TextField("食性", text: $diet)
